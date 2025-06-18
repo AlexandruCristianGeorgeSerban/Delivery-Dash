@@ -17,8 +17,8 @@ By the end of this prototype phase, the following systems will be in place (with
 - **Timed Delivery Missions**  
   - UI timer, map markers, pickup/delivery logic & success/fail conditions  
 - **Controls**  
-  - **Driving:** W/A/S/D + Space (brake)  
-  - **On‑Foot:** W/A/S/D (or arrows), E (interact), Space (jump), Shift (sprint), Ctrl (crouch)  
+  - **Driving:** W/A/S/D (or arrows) + Space (brake)  
+  - **On‑Foot:** W/A/S/D (or arrows), E (interact), Space (jump), Shift (sprint), Ctrl (crouch), F (flip vehicle)  
 - **Delivery Interaction Stubs**  
   - “Press E” hand‑off prompts, door/gate drop-off mechanics  
 - **Maintenance Mini‑Games**  
